@@ -1,6 +1,16 @@
-# Cybersecurity Learning Roadmap
+# Cybersecurity Roadmap
 
-Mein persönlicher Lernplan mit dem Ziel, meine Kenntnisse in Cybersecurity, Hardware Hacking, Pentesting und Reverse Engineering kontinuierlich auszubauen.
+Mein persönlicher Lernplan mit dem Ziel, meine Kenntnisse in Hacker-Hardware, Pentesting, Social Engineering, Reverse Engineering und Darknet kontinuierlich auszubauen. 
+
+Zum Nachahmen oder als Inspiration für alle, die ins Thema einsteigen wollen.
+
+Technische Vorkenntnisse bzw. die Bereitschaft in manche Themen selbst einzusteigen wird vorausgesetzt. Ansonsten versuche ich hier alles fail-safe wiederzugeben und zu erklären.
+
+Schaut gerne auf meinem [YouTube-Kanal @seckuhn](www.youtube.com/@seckuhn) vorbei. Solange ich da nicht gesperrt werde, werde ich da Videos zu meinen Themen posten, damit jeder ein Bild davon bekommt, wie diverse Dinge durchgeführt werden. Falls es zur Sperrung kommen sollte, informiere ich hier über andere Kanäle, damit meine Videos euch noch erreichen.
+
+Keine Ahnung was bei Instagram kommt, aber hier: [@seckuhn](https://www.instagram.com/seckuhn).
+
+Hier im Git und in meinem [Blog]() ist alles was ich tue nachzulesen.
 
 **Lernzeit:** 4+ Stunden täglich  
 **Lerntage:** Montag bis Freitag  
@@ -12,15 +22,15 @@ Mein persönlicher Lernplan mit dem Ziel, meine Kenntnisse in Cybersecurity, Har
 
 | Tag | Schwerpunkt |
 |---|---|
-| Montag | Hardware Hacking \& Hardwarebau |
+| Montag | Hacking Hardware |
 | Dienstag | Pentesting |
 | Mittwoch | Social Engineering |
 | Donnerstag | Reverse Engineering |
-| Freitag | Darknet Research |
+| Freitag | Darknet |
 
 ---
 
-## Montag – Hardware Hacking \& Hardwarebau
+## Montag – Hacking Hardware
 
 **Ziel:** Elektronik verstehen, eigene Hardware bauen und Hardware-Schnittstellen analysieren.
 
@@ -125,7 +135,7 @@ Mein persönlicher Lernplan mit dem Ziel, meine Kenntnisse in Cybersecurity, Har
 
 ---
 
-## Freitag – Darknet Research
+## Freitag – Darknet
 
 **Ziel:** Darknet-Strukturen, Communities und Diskussionen rund um IT-Security verstehen.
 
@@ -168,39 +178,29 @@ Am Ende jeder Woche dokumentiere ich:
 
 ## Dokumentation
 
-Für jedes Thema können eigene Notizen, Screenshots, Codebeispiele und Projektdateien angelegt werden.
+Für jedes Thema lege ich zunächst Notizen, Screenshots, Codebeispiele und Projektdateien an. Dabei versuche ich alle Inhalte entsprechend zu sortieren.
 
 ```text
-cybersecurity-learning/
+hacking-lab/
 │
 ├── README.md
 │
-├── Monday-Hardware/
-│   ├── Notes/
-│   └── Projects/
+├── hardware/
 │
-├── Tuesday-Pentesting/
-│   ├── Notes/
-│   └── Labs/
+├── pentesting/
 │
-├── Wednesday-Social-Engineering/
-│   ├── Notes/
-│   └── Case-Studies/
+├── social-engineering/
 │
-├── Thursday-Reverse-Engineering/
-│   ├── Notes/
-│   └── Samples/
+├── reverse-engineering/
 │
-└── Friday-Darknet-Research/
-    ├── Notes/
-    └── Research/
+└── darknet/
 ```
 
 ---
 
 **Langfristiges Ziel:** Ein fundiertes Verständnis von IT-Sicherheit entwickeln, praktische Erfahrungen sammeln und mich kontinuierlich in Richtung professionelles Pentesting weiterentwickeln.
 
-*Learning by doing. Research. Analyze. Document. Improve.*
+Einfach machen Leute, die Uni bringt eh nichts.
 
 
 
