@@ -3,7 +3,7 @@ name: Deploy Hacking Lab Hugo Blog
 on:
   push:
     branches: [main]
-    paths: ['blog/**', '.github/workflows/deploy.yml']
+    paths: ['blog/**', 'darknet/**', 'hardware/**', 'pentesting/**', 'reverse-engineering/**', 'social-engineering/**', '.github/workflows/deploy.yml']
   workflow_dispatch:
 
 permissions:
