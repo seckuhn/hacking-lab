@@ -6,9 +6,9 @@ Zum Nachahmen oder als Inspiration für alle, die ins Thema einsteigen wollen.
 
 Technische Vorkenntnisse bzw. die Bereitschaft in manche Themen selbst einzusteigen wird vorausgesetzt. Ansonsten versuche ich hier alles fail-safe wiederzugeben und zu erklären.
 
-Schaut gerne auf meinem [YouTube-Kanal @seckuhn](www.youtube.com/@seckuhn) vorbei. Solange ich da nicht gesperrt werde, werde ich da Videos zu meinen Themen posten, damit jeder ein Bild davon bekommt, wie diverse Dinge durchgeführt werden. Falls es zur Sperrung kommen sollte, informiere ich hier über andere Kanäle, damit meine Videos euch noch erreichen.
+Schaut gerne auf meinem [YouTube-Kanal @seckuhn](www.youtube.com/@seckuhn) vorbei. Solange ich da nicht gesperrt werde, werde ich da Videos zu meinen Themen posten, damit jeder ein Bild davon bekommt, wie diverse Dinge durchgeführt werden. Falls es zur Sperrung kommen sollte, informiere ich hier über andere Kanäle, damit meine Videos euch noch erreichen. [TikTok](www.tiktok.com/@seckuhn) vielleicht.
 
-Keine Ahnung was bei Instagram kommt, aber hier: [@seckuhn](https://www.instagram.com/seckuhn).
+Keine Ahnung was bei Instagram kommt, aber hier: [@seckuhn](https://www.instagram.com/seckuhn). 
 
 Hier im Git und in meinem [Blog](https://seckuhn.github.io/hacking-lab/) ist alles was ich tue nachzulesen.
 
