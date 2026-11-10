@@ -10,7 +10,7 @@ Schaut gerne auf meinem [YouTube-Kanal @seckuhn](www.youtube.com/@seckuhn) vorbe
 
 Keine Ahnung was bei Instagram kommt, aber hier: [@seckuhn](https://www.instagram.com/seckuhn).
 
-Hier im Git und in meinem [Blog](...) ist alles was ich tue nachzulesen.
+Hier im Git und in meinem [Blog](https://seckuhn.github.io/hacking-lab/) ist alles was ich tue nachzulesen.
 
 **Lernzeit:** 4+ Stunden täglich  
 **Lerntage:** Montag bis Freitag  

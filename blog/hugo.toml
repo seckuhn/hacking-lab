@@ -1,0 +1,15 @@
+baseURL = "https://seckuhn.github.io/hacking-lab/"
+languageCode = "de-DE"
+title = "Hacking Lab"
+theme = "PaperMod"
+
+[params]
+  description = "Notizen und Write-ups aus meinem Hacking Lab"
+  ShowReadingTime = true
+  defaultTheme = "auto"
+
+[menu]
+  [[menu.main]]
+    name = "Beiträge"
+    url = "/posts/"
+    weight = 10
