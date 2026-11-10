@@ -2,38 +2,39 @@ baseURL = "https://seckuhn.github.io/hacking-lab/"
 languageCode = "de-DE"
 title = "Hacking Lab"
 theme = "PaperMod"
+pluralizeListTitles = false
 
 [params]
-  mainSections = ["posts", "darknet", "hardware", "pentesting", "reverse-engineering", "social-engineering"]
+  mainSections = ["sonstiges", "darknet", "hardware", "pentesting", "reverse-engineering", "social-engineering"]
   description = "Notizen und Write-ups aus meinem Hacking Lab"
   ShowReadingTime = true
   defaultTheme = "auto"
 
 [menu]
   [[menu.main]]
-    name = "Beiträge"
-    url = "/posts/"
-    weight = 10
-  [[menu.main]]
     name = "Hardware"
     pageRef = "hardware"
-    weight = 20
+    weight = 10
   [[menu.main]]
     name = "Pentesting"
     pageRef = "pentesting"
-    weight = 30
+    weight = 20
   [[menu.main]]
     name = "Social Engineering"
     pageRef = "social-engineering"
-    weight = 20
+    weight = 30
   [[menu.main]]
     name = "Reverse Engineering"
     pageRef = "reverse-engineering"
-    weight = 30
+    weight = 40
   [[menu.main]]
     name = "Darknet"
     pageRef = "darknet"
-    weight = 20
+    weight = 50
+  [[menu.main]]
+    name = "Sonstiges"
+    pageRef = "posts"
+    weight = 60
 [module]
   # Standard-Mounts
   [[module.mounts]]
